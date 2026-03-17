@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+    <usuario id="1" dni="2323424" edad="20">
+        <nombre>camilo</nombre>
+        <apellido>borja</apellido>
+        <direccion>
+            <calle>Comunidad V</calle>
+            <provincia>Valencia</provincia>
+            <localidad>ValenciaVa</localidad>
+        </direccion>
+    </usuario>
+    <usuario id="2" dni="1234" edad="15">
+        <nombre>jose</nombre>
+        <apellido>martin</apellido>
+        <direccion>
+            <calle>madrid V</calle>
+            <provincia>madrid</provincia>
+            <localidad>MadridDB</localidad>
+        </direccion>
+    </usuario>
+    <usuario id="3" dni="43212" edad="25">
+        <nombre>nerea</nombre>
+        <apellido>sanchez</apellido>
+        <direccion>
+            <calle>Comunidad alicante</calle>
+            <provincia>alicant</provincia>
+            <localidad>alicante</localidad>
+        </direccion>
+    </usuario>
+</agenda>
